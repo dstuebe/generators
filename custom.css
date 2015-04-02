@@ -1,6 +1,8 @@
-/*Some css fixes to use night theme with IPython slides*/
+/*Some css fixes to use night theme with IPython slides
+http://www.damian.oquanta.info/posts/customizing-your-ipython-slides.html
+*/
 body {
-background-color: #111111;
+background-color: #282828;
 }
 .reveal p {
 color: white;
